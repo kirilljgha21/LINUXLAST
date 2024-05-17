@@ -1,0 +1,6 @@
+1) cd /opt/250324_evening/Kirill_Fedotov
+2) nano taskKIRILL.sh
+3) chmod u+x taskKIRILL.sh
+4) tar -czf hwarchive.tar.gz 120.04.23 220.04.23 320.04.23 420.04.23 520.04.23 620.04.23 720.04.23 820.04.23 920.04.23 1020.04.23 
+5) mkdir -p hwarchive
+6) mv hwarchive.tar.gz hwarchive
